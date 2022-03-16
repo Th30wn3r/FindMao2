@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x98140784a03C857cC79b2aa61b9E2F76556D350a",
+  "SCAN_LINK": "https://bscscan.com/address/0x98140784a03c857cc79b2aa61b9e2f76556d350a",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "FINDMAO",
+  "SYMBOL": "rxm",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
